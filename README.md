@@ -1,3 +1,6 @@
-# presentation
-presentation
-This is the website i use to introduce myself
+# SeenKid's Introduction page
+
+## This is the website i use to introduce myself
+# link here : https://npanel.tk
+
+### i'm not the original owner of the project and I took some code on the internet. 
