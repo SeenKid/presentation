@@ -4,3 +4,9 @@
 # link here : https://npanel.tk
 
 ### i'm not the original owner of the project and I took some code on the internet. 
+
+
+### pages :
+ - challenges.html
+ - index.html
+ - infos.html
