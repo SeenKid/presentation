@@ -4,8 +4,8 @@
 # link here : https://npanel.tk
 # N-Panel on : https://npanel.tk/panel
 
-### i'm not the original owner of the project and I took some code on the internet. 
-
+### i'm not the original owner of the base code and I took some code on the internet to help me. 
+### Thanks for everyone watching the website
 
 ### pages :
  - challenges.html
